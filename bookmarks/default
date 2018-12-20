@@ -1,0 +1,8 @@
+0.1.0
+vimfiler default binds	/home/steve/.cache/nvim/nvimplugs/vimfiler.vim/doc/vimfiler.txt	826	^			<Plug>(vimfiler_switch_to_another_vimfiler)$
+zsh aliases	/home/steve/dotfiles/config/zsh/aliases.zsh	279	^alias cd\.pkg='cd \~/\.cache/yay'$
+denite source tree	/home/steve/.cache/nvim/nvimplugs/denite.nvim/rplugin/python3/denite/source/register.py	28	^           'u', 'v', 'w', 'x', 'y', 'z',$
+i3 config	/home/steve/dotfiles/config/i3/config	63	^bindsym \$modx+r exec rofi -show run$
+ranger default keys	/home/steve/dotfiles/config/ranger/rc.conf	247	^# Basic$
+denite keybinds	/home/steve/dotfiles/config/nvim/rc/keys.vim	377	^nnoremap <silent> <Space>gp :<C-u>Denite  -mode=normal  -highlight-mode-normal=CursorLine  -post-action=open$
+flex-test mine.js	/home/steve/dev/html-tests/flex-test/mine.js	2440	^$
